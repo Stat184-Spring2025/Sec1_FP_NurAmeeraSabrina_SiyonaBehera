@@ -60,11 +60,19 @@ Bar Chart: Median Earnings by Major Group.png: Bar chart showing median income b
 
 Education vs Median Hours.png: Median hours worked per week by education level.
 
+![Hours Per Week VS Workclass](https://github.com/user-attachments/assets/faba27a0-ecda-4fb3-9bf1-57b30414d05b)
+
+Box Plot: Hours Per Week VS Workclass
+
+
 
 ![Heatmap: Hours by Age Group and Education](https://github.com/user-attachments/assets/d8d55a03-2520-45c0-a011-d4a5e12ccce7)
 
 Average Hours by Age Group and Education.png: Heatmap of hours by Age Group and Education. 
 
+![Scatter Plot (Readme Files)](https://github.com/user-attachments/assets/d49aff66-a987-41c6-9ece-5be29f884e4b)
+
+Scatter Plot: High Income Indicator VS Hours Per Week
 #Do you think we have to include all of the visualizations we have in this readme file? or this 3 are enough?
 
 ## How to Use
